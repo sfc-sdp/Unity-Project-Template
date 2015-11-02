@@ -11,13 +11,13 @@ internal class CreateDefaultFolders
         CreateDirectory("Animations");
         CreateDirectory("Editor");
         CreateDirectory("Materials");
-        CreateDirectory("Models");
+        //CreateDirectory("Models");
         CreateDirectory("Prefabs");
         CreateDirectory("Resources");
         CreateDirectory("Scenes");
         CreateDirectory("Scripts");
-        CreateDirectory("Scripts/Managers");
-        CreateDirectory("Shaders");
+        //CreateDirectory("Scripts/Managers");
+        //CreateDirectory("Shaders");
         CreateDirectory("Audio");
         CreateDirectory("Textures");
         CreateDirectory("Scenes");
